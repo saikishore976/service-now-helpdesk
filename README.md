@@ -16,10 +16,7 @@ This project is a complete Help Desk Ticketing System built on the ServiceNow pl
 - Custom form layout with dynamic field behavior
 - Email notifications on assignment
 
-## 📸 Screenshots
-![Form](./screenshots/form.png)
-![Workflow](./screenshots/workflow-designer.png)
-![Dashboard](./screenshots/dashboard.png)
+
 
 ## 🧠 Code Snippets
 See `/scripts` folder for:
