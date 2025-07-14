@@ -1,0 +1,5 @@
+Workflow: Auto Assignment
+1. Trigger: When record is created on Help Desk Ticket table.
+2. Condition: Category == Hardware.
+3. Action: Set Assigned To = 'Hardware Support'.
+4. Optional: Send email notification to Assigned To.
